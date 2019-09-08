@@ -1,7 +1,7 @@
 def add(x,y,z):
     pass
 print abc xyz
-def subtract(x,y,z):
+def subtract(x,y):
     pass
 def multiply(x,y):
     pass
